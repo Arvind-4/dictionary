@@ -1,7 +1,7 @@
 
 # Dictionary Using React js
 
-The Website is Live on [dictionary-arvind](https://.netlify.app/).
+The Website is Live on [dictionary-arvind](https://dictionary-arvind.netlify.app/).
 Check it Out!
 
 ## Features 
