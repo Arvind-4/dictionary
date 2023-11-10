@@ -9,6 +9,13 @@ The Website is Live on [awesomeoxford.vercel.app](https://awesomeoxford.vercel.a
 - [Vite](https://vitejs.dev/)  - Next Generation Frontend Tooling.
 - [React Js](https://reactjs.org/)  - A JavaScript library for building user interfaces.
 
+  ## Screenshot:
+  <a href="https://awesomeoxford.vercel.app/">
+  <center>
+    <img src=".github/static/homepage.png" alt="Home Page" />
+  </center>
+  </a>
+  
 ## Features:
 
 - [x] Uses [Material UI](https://material-ui.com/).
